@@ -1,4 +1,3 @@
 8734839247928 = first number
 38472384 = second number
-394839 = third number
 
