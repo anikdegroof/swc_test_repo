@@ -1,0 +1,2 @@
+I know now how to create a branch in Git. 2 stages: first create the branch and then go to the new branch!
+
